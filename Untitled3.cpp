@@ -15,5 +15,5 @@ sum += number[i];
 cout << "\n\nThe sum of these numbers is " << sum << "\n\n";
 return 0;
 }
-
+//gchgj
 
